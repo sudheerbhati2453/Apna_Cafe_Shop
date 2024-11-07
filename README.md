@@ -1,6 +1,6 @@
-# Apna Coffee Shop
+# Apna Cafe Shop
 
-**Apna Coffee Shop** is a web-based platform designed to provide a seamless online ordering experience for coffee lovers. Built using the Laravel framework, MySQL, and Bootstrap, this project features a responsive and user-friendly interface, enabling customers to browse menu items, place orders, and make secure payments.
+**Apna Cafe Shop** is a web-based platform designed to provide a seamless online ordering experience for coffee lovers. Built using the Laravel framework, MySQL, and Bootstrap, this project features a responsive and user-friendly interface, enabling customers to browse menu items, place orders, and make secure payments.
 
 ## Table of Contents
 
@@ -14,7 +14,7 @@
 
 ## Project Overview
 
-The Apna Coffee Shop platform is designed to simulate a real-world online coffee ordering system. The application allows users to explore different coffee options, view prices, add items to their cart, and proceed to checkout for a smooth ordering experience. The focus is on a clean UI, ease of navigation, and a secure transaction system.
+The Apna Cafe Shop platform is designed to simulate a real-world online coffee ordering system. The application allows users to explore different coffee options, view prices, add items to their cart, and proceed to checkout for a smooth ordering experience. The focus is on a clean UI, ease of navigation, and a secure transaction system.
 
 ## Features
 
@@ -37,7 +37,7 @@ Follow these steps to set up the project locally.
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/apna-coffee-shop.git
+    git clone https://github.com/yourusername/apna-cafe-shop.git
     cd apna-coffee-shop
     ```
 
@@ -86,4 +86,4 @@ Contributions are welcome! If you'd like to improve this project:
 5. Open a pull request.
 ---
 
-Enjoy using **Apna Coffee Shop**!
+Enjoy using **Apna Cafe Shop**!
